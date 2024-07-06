@@ -41,21 +41,21 @@ To get started, please follow the steps below:
    - Use the following credentials to log in:
 
 ---------------------------------------
-**For Admins:**
+**For Admin:**
 
 - Username:    HR-ADMIN
 - Email:       hr@gmail.com
 - Password:    hr123456
 
 ----------------------------------------
-**For Employees:**
+**For Employee:**
 
 - Username:   Employee1
 - Email:      employee1@gmail.com
 - Password:   employee1
 
 ------------------------------------------
-**For Applicants:**
+**For Applicant:**
 
 - Username:   Applicant1
 - Email:      applicant1@gmail.com
