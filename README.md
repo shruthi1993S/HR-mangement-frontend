@@ -1,5 +1,5 @@
-                                                           HR Management System
-                                                            -------------------
+                                             HR Management System
+                                                          
 Overview
 ----------
 The HR Management System is a comprehensive tool designed to streamline and enhance the efficiency of HR operations. It allows HR professionals to manage employee data, track leave requests, conduct performance evaluations, manage recruitment processes, and generate insightful reports. The system ensures compliance with company policies and regulations while maintaining data security and integrity.
